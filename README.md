@@ -7,14 +7,11 @@
 <p>A <strong><a href="https://www.mexc.com/register?inviteCode=mexc-MXUSDT" target="_blank" rel="noopener noreferrer">
             MEXC referral code MXUSDT
         </a></strong> is a special promotional code that allows new users to receive exclusive rewards when they <strong>sign up</strong> on the MEXC exchange. By using a referral code during the <strong>registration</strong> process, traders can unlock bonuses such as trading fee discounts, deposit rewards, and cashback offers.</p>
-    
-[Watch the video on YouTube](https://www.youtube.com/watch?v=XoNBtk4Hu1Y)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoNBtk4Hu1Y" 
-        title="YouTube video player" frameborder="0" allowfullscreen>
-</iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoNBtk4Hu1Y" frameborder="0" allowfullscreen></iframe>
+<p><strong> Watching video on Youtube !</strong></p>
+<a href="https://www.youtube.com/watch?v=XoNBtk4Hu1Y" target="_blank">
+    <img src="https://img.youtube.com/vi/XoNBtk4Hu1Y/maxresdefault.jpg" alt="YouTube Video Thumbnail" width="560" height="315">
+</a>
 
 
 <table border="1">
