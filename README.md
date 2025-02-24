@@ -10,8 +10,10 @@
 
 <p><strong> Watching video on Youtube !</strong></p>
 <a href="https://www.youtube.com/watch?v=XoNBtk4Hu1Y" target="_blank">
-    <img src="https://img.youtube.com/vi/XoNBtk4Hu1Y/maxresdefault.jpg" alt="YouTube Video Thumbnail" width="560" height="315">
+    <img src="https://img.youtube.com/vi/XoNBtk4Hu1Y/maxresdefault.jpg" alt="MEXC Sign Up Bonus" width="560" height="315">
 </a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoNBtk4Hu1Y" frameborder="0" allowfullscreen></iframe>
 
 
 <table border="1">
